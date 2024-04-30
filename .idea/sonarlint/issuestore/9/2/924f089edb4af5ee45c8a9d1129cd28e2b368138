@@ -1,3 +1,13 @@
 
-Ä
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘8Ïõâóò1J$9e1ba46c-01dd-47f9-9cef-4877e5bd3317
+…
+java:S1854
+"=Remove this useless assignment to local variable "secondNum".(±³ßºøÿÿÿÿ8«üêóò1J$63d3ad53-5041-4795-9105-27e501f2f58f
+
+java:S1854"<Remove this useless assignment to local variable "fristNum".(ø¶ƒ·8—ëóò1J$e683d893-0bf5-4454-ba22-02a9b34939aa
+r	java:S106"+Replace this use of System.out by a logger.(µƒïÃøÿÿÿÿ8÷ çóò1J$d736fc06-3393-4eed-b4bc-1b351f7fb30b
+p
+java:S1481"-Remove this unused "fristNum" local variable.(ø¶ƒ·8²üêóò1J$a7967bae-8655-4ac2-86ec-be51b517efa3
+r	java:S106	"+Replace this use of System.out by a logger.(”½€ûÿÿÿÿÿ8²üêóò1J$2d17cf55-c04b-4983-a002-4dde62b5a329
+v
+java:S1481
+".Remove this unused "secondNum" local variable.(±³ßºøÿÿÿÿ8–—ëóò1J$77d050fe-0a4a-46e1-92d2-9fc62c7dcd4b
