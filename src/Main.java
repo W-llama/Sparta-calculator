@@ -9,5 +9,8 @@ public class Main {
         System.out.println("두번째 숫자를 입력하세요: ");
         int secondNum = sc.nextInt();
 
+        System.out.println("사칙연산 기호를 입력하세요: ");
+        char ch = sc.next().charAt(0);
+
     }
 }

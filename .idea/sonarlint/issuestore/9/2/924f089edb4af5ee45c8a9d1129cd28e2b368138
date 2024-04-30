@@ -1,13 +1,18 @@
 
+~
+java:S1854"6Remove this useless assignment to local variable "ch".(О®Дчш€€€€8л„пут1J$9ddf2c02-4781-43c6-90c0-84d7fc7ee6f2
 Е
 java:S1854
-"=Remove this useless assignment to local variable "secondNum".(±≥яЇш€€€€8Ђькут1J$63d3ad53-5041-4795-9105-27e501f2f58f
+"=Remove this useless assignment to local variable "secondNum".(±≥яЇш€€€€8Ђькут1J$44d76990-a448-4d5d-9214-b103a0f079c7
 
-java:S1854"<Remove this useless assignment to local variable "fristNum".(шґГЈ8РЧлут1J$e683d893-0bf5-4454-ba22-02a9b34939aa
-r	java:S106"+Replace this use of System.out by a logger.(µГп√ш€€€€8ч†зут1J$d736fc06-3393-4eed-b4bc-1b351f7fb30b
+java:S1854"<Remove this useless assignment to local variable "fristNum".(шґГЈ8РЧлут1J$ef3392d9-97ab-4eef-80a0-8b72b67ea4cc
+r	java:S106"+Replace this use of System.out by a logger.(µГп√ш€€€€8ч†зут1J$8fdd6a02-2e27-44f4-8879-7b31fc0fa0a3
 p
-java:S1481"-Remove this unused "fristNum" local variable.(шґГЈ8≤ькут1J$a7967bae-8655-4ac2-86ec-be51b517efa3
-r	java:S106	"+Replace this use of System.out by a logger.(ФљАы€€€€€8≤ькут1J$2d17cf55-c04b-4983-a002-4dde62b5a329
+java:S1481"-Remove this unused "fristNum" local variable.(шґГЈ8≤ькут1J$8c031ff5-8e41-4133-9115-0d1b153c6f68
+r	java:S106	"+Replace this use of System.out by a logger.(ФљАы€€€€€8≤ькут1J$9accad82-9fe2-4fb1-8a6e-57ae42df7191
 v
 java:S1481
-".Remove this unused "secondNum" local variable.(±≥яЇш€€€€8ЦЧлут1J$77d050fe-0a4a-46e1-92d2-9fc62c7dcd4b
+".Remove this unused "secondNum" local variable.(±≥яЇш€€€€8ЦЧлут1J$d214ecb6-de3a-4483-bc86-69aded74847a
+m	java:S106"+Replace this use of System.out by a logger.(““ВЧ8у„пут1J$6c84d7b4-e487-423d-9878-e23a2cf2bd31
+o
+java:S1481"'Remove this unused "ch" local variable.(О®Дчш€€€€8ф„пут1J$018a5cf6-799b-4e1d-a371-ff4e4167ed1c
