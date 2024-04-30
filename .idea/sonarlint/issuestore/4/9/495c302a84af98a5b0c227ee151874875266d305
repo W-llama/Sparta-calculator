@@ -1,0 +1,21 @@
+
+
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÿז¥8§רûפע1J$9b946c75-756e-44d1-a6f7-ccb82d403479
+
+java:S4973"<Strings and Boxed types should be compared using "equals()".(אֳ’8¨רûפע1J$69ed0788-7efc-44c3-9b47-32b9280a94c6
+•
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ַµם‘8‰וüפע1J$7165e707-4c4a-43c1-9632-f07450ee27b7
+m
+java:S1481	"*Remove this unused "index" local variable.(לüא·8פרûפע1J$ce8b28a1-393f-43fe-b3d3-cc12e6ff10f3
+r	java:S106"+Replace this use of System.out by a logger.(µƒןֳרÿÿÿÿ8ץרûפע1J$fe7e9811-a607-4dbb-b2be-7969b0054283
+r	java:S106"+Replace this use of System.out by a logger.(”½€ûÿÿÿÿÿ8ץרûפע1J$cd34833d-bdbf-4df4-aaaa-2dfd7a2a7e44
+m	java:S106"+Replace this use of System.out by a logger.(ׂׂ‚—8צרûפע1J$bd25a529-cef1-4ea9-934b-47e9e28034a7
+l	java:S106"+Replace this use of System.out by a logger.(ם¢וZ8צרûפע1J$9216f3a8-9d2d-453e-ab55-9c23296adbdf
+i	java:S131""Add a default case to this switch.(¹ÿÿÿÿÿ8צרûפע1J$059e5df4-f826-461d-a2d8-992f4246a635
+r	java:S106("+Replace this use of System.out by a logger.(יß¯ףüÿÿÿÿ8צרûפע1J$6f45df0a-4af5-4235-b78b-495d4b5bd515
+m	java:S106,"+Replace this use of System.out by a logger.(¼‡¹¶8קרûפע1J$73e8fbde-c287-4ba9-8da9-bfbbbc61e578
+l	java:S1062"+Replace this use of System.out by a logger.(שÊ¡Q8קרûפע1J$ce7d55e6-c75c-408c-9467-0d21124ca74b
+m	java:S1065"+Replace this use of System.out by a logger.(‹˜€û8ררûפע1J$ef33eba1-c211-4190-998b-51292b4e068b
+m	java:S1068"+Replace this use of System.out by a logger.(¢ך¦8ררûפע1J$bae77eae-3c6c-400a-8754-a1285fdf168b
+r	java:S106;"+Replace this use of System.out by a logger.(×׃¼ב‏ÿÿÿÿ8²ֲ‏פע1J$a0b83660-d18e-49f1-9aa9-d31ca5f4c964
+m	java:S106="+Replace this use of System.out by a logger.(ֿח¶8½ÿ‏פע1J$44442c8a-2627-457a-ab70-e0844abd77bb

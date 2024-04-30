@@ -1,10 +1,7 @@
 
-Y
-java:S4973"<Strings and Boxed types should be compared using "equals()".(àÃ’8ò“¸ôò1
-L	java:S106	"+Replace this use of System.out by a logger.(µƒïÃøÿÿÿÿ8Ë”¸ôò1
-L	java:S106"+Replace this use of System.out by a logger.(”½€ûÿÿÿÿÿ8Ë”¸ôò1
-G	java:S106"+Replace this use of System.out by a logger.(ÒÒ‚—8Ì”¸ôò1
-F	java:S106"+Replace this use of System.out by a logger.(í¢åZ8Ì”¸ôò1
-C	java:S131""Add a default case to this switch.(Œ¹ÿÿÿÿÿ8Í”¸ôò1
-L	java:S106#"+Replace this use of System.out by a logger.(éß¯óüÿÿÿÿ8Í”¸ôò1
-G	java:S106$"+Replace this use of System.out by a logger.(Ïçš¶8Í”¸ôò1
+…
+java:S2094"BRemove this empty class, write its code or make it an "interface".(àªÅö8ä¶õò1J$0c7eb411-fcc6-4b0b-95bc-80dea9edf333
+u
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8æ¶õò1J$df19a487-887e-4d43-b534-eb1ab1cb3cb8
+v
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8æ¶õò1J$eb238c84-b4cc-4c3f-9c89-fa71c89cc649
