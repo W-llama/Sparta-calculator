@@ -1,7 +1,10 @@
 
-r	java:S106	"+Replace this use of System.out by a logger.(µƒïÃøÿÿÿÿ8¹ ôò1J$6c2cd53f-9205-4a1e-b016-726892f38008
-r	java:S106"+Replace this use of System.out by a logger.(”½€ûÿÿÿÿÿ8º ôò1J$7cf07504-fcc5-4e99-bbec-20cc85f62529
-m	java:S106"+Replace this use of System.out by a logger.(ÒÒ‚—8º ôò1J$8c186fb0-6a02-4e6a-acae-53f8d6fd3546
-l	java:S106"+Replace this use of System.out by a logger.(í¢åZ8» ôò1J$7481001f-b121-432d-90c2-41127ddd0336
-i	java:S131""Add a default case to this switch.(Œ¹ÿÿÿÿÿ8» ôò1J$31a7dcfa-4fff-4cea-9ebd-731bc048154f
-r	java:S106""+Replace this use of System.out by a logger.(éß¯óüÿÿÿÿ8‘º‘ôò1J$80dd9200-7560-46e6-9eee-2a75dfee41d9
+Y
+java:S4973"<Strings and Boxed types should be compared using "equals()".(àÃ’8ò“¸ôò1
+L	java:S106	"+Replace this use of System.out by a logger.(µƒïÃøÿÿÿÿ8Ë”¸ôò1
+L	java:S106"+Replace this use of System.out by a logger.(”½€ûÿÿÿÿÿ8Ë”¸ôò1
+G	java:S106"+Replace this use of System.out by a logger.(ÒÒ‚—8Ì”¸ôò1
+F	java:S106"+Replace this use of System.out by a logger.(í¢åZ8Ì”¸ôò1
+C	java:S131""Add a default case to this switch.(Œ¹ÿÿÿÿÿ8Í”¸ôò1
+L	java:S106#"+Replace this use of System.out by a logger.(éß¯óüÿÿÿÿ8Í”¸ôò1
+G	java:S106$"+Replace this use of System.out by a logger.(Ïçš¶8Í”¸ôò1
