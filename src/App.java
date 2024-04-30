@@ -20,7 +20,7 @@ public class App {
 
             String ch = sc.next();
 
-            if (ch == "." && secondNum == 0) {
+            if (ch == "/" && secondNum == 0) {
                 System.out.println("나눗셈 연산에서 부모(두번째 정수)에 0이 입력될 수 없습니다.");
             } else {
                 switch (ch) {
@@ -46,7 +46,6 @@ public class App {
             if (remove.equals("remove")) {
                 resultQueue.poll();
             }
-
             System.out.println("가장 먼저 연산결과를 조회하시겠습니까? (inquiry입력 시 조회)");
             String inquiry = sc.nextLine();
             if(inquiry.equals("inquiry")) {
@@ -63,6 +62,8 @@ public class App {
             if (answer.equals("exit")) {
                 break;
             }
+            index++;
+            sc.close();
         }
     }
 }
