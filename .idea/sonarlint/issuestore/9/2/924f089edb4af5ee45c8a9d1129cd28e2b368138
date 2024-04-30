@@ -1,18 +1,7 @@
 
-~
-java:S1854"6Remove this useless assignment to local variable "ch".(¨„÷øÿÿÿÿ8ë×ïóò1J$9ddf2c02-4781-43c6-90c0-84d7fc7ee6f2
-…
-java:S1854
-"=Remove this useless assignment to local variable "secondNum".(±³ßºøÿÿÿÿ8«üêóò1J$44d76990-a448-4d5d-9214-b103a0f079c7
-
-java:S1854"<Remove this useless assignment to local variable "fristNum".(ø¶ƒ·8—ëóò1J$ef3392d9-97ab-4eef-80a0-8b72b67ea4cc
-r	java:S106"+Replace this use of System.out by a logger.(µƒïÃøÿÿÿÿ8÷ çóò1J$8fdd6a02-2e27-44f4-8879-7b31fc0fa0a3
-p
-java:S1481"-Remove this unused "fristNum" local variable.(ø¶ƒ·8²üêóò1J$8c031ff5-8e41-4133-9115-0d1b153c6f68
-r	java:S106	"+Replace this use of System.out by a logger.(”½€ûÿÿÿÿÿ8²üêóò1J$9accad82-9fe2-4fb1-8a6e-57ae42df7191
-v
-java:S1481
-".Remove this unused "secondNum" local variable.(±³ßºøÿÿÿÿ8–—ëóò1J$d214ecb6-de3a-4483-bc86-69aded74847a
-m	java:S106"+Replace this use of System.out by a logger.(ÒÒ‚—8ó×ïóò1J$6c84d7b4-e487-423d-9878-e23a2cf2bd31
-o
-java:S1481"'Remove this unused "ch" local variable.(¨„÷øÿÿÿÿ8ô×ïóò1J$018a5cf6-799b-4e1d-a371-ff4e4167ed1c
+r	java:S106	"+Replace this use of System.out by a logger.(µƒïÃøÿÿÿÿ8¹ ôò1J$6c2cd53f-9205-4a1e-b016-726892f38008
+r	java:S106"+Replace this use of System.out by a logger.(”½€ûÿÿÿÿÿ8º ôò1J$7cf07504-fcc5-4e99-bbec-20cc85f62529
+m	java:S106"+Replace this use of System.out by a logger.(ÒÒ‚—8º ôò1J$8c186fb0-6a02-4e6a-acae-53f8d6fd3546
+l	java:S106"+Replace this use of System.out by a logger.(í¢åZ8» ôò1J$7481001f-b121-432d-90c2-41127ddd0336
+i	java:S131""Add a default case to this switch.(Œ¹ÿÿÿÿÿ8» ôò1J$31a7dcfa-4fff-4cea-9ebd-731bc048154f
+r	java:S106""+Replace this use of System.out by a logger.(éß¯óüÿÿÿÿ8‘º‘ôò1J$80dd9200-7560-46e6-9eee-2a75dfee41d9
