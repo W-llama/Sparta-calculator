@@ -18,12 +18,12 @@ public class App {
 
             System.out.println("사칙연산 기호를 입력하세요: ");
 
-            String ch = sc.next();
+            String operator = sc.next();
 
-            if (ch == "/" && secondNum == 0) {
+            if (operator == "/" && secondNum == 0) {
                 System.out.println("나눗셈 연산에서 부모(두번째 정수)에 0이 입력될 수 없습니다.");
             } else {
-                switch (ch) {
+                switch (operator) {
                     case "+":
                         result = fristNum + secondNum;
                         break;
